@@ -6,4 +6,4 @@ Para a execução correta do arquivo Main.java pode ser necessário ajustar o ta
 Para isso, utilize o argumento: 
 ```-Xss128m```
 
-
+Para abrir o projeto, basta copiar o arquivo Main.java para uma IDE Java e executar.
